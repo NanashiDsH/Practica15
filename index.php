@@ -13,7 +13,7 @@
    <section class="wrapper">
     <header>
       <h1 class="logo"><a href="index.html">IntroPHP7</a></h1>
-        <p>>Bahena Porfirio Kevin</p>
+        <p>>Bahena Porfirio Kevin | 21680040</p>
       <nav>
       <ul>
         <li><a href="index.php" class="current">Inicio</a></li>
