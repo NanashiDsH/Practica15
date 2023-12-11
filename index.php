@@ -2,7 +2,7 @@
 <html lang="es-mx">
 <head>
     <meta charset="UTF-8">
-    <title>IntroPhp7 Grupo X__</title>
+    <title>IntroPhp7 Grupo XC</title>
     <link rel="stylesheet" href="css/estilos.css"/>
     <link rel="stylesheet" href="css/menu.css"/>
     <link rel="stylesheet" href="css/problemas.css"/>
@@ -13,6 +13,7 @@
    <section class="wrapper">
     <header>
       <h1 class="logo"><a href="index.html">IntroPHP7</a></h1>
+        <p>>Bahena Porfirio Kevin</p>
       <nav>
       <ul>
         <li><a href="index.php" class="current">Inicio</a></li>
